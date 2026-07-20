@@ -1,1 +1,1 @@
-This is Cisco labs detail
+This is a repository for my IT labs 
