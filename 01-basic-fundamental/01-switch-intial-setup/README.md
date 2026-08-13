@@ -1,7 +1,7 @@
 # Lab 2.7.6: Implement Basic Connectivity
 
 ## Lab Overview & Objectives
-This lab focuses on performing initial administrative setup and IP connectivity configuration on Cisco Catalyst switches (`S1` and `S2`) and end-user host devices (`PC1` and `PC2`) using Cisco Packet Tracer.
+This lab focuses on performing initial administrative setup and IP connectivity configuration on Cisco Catalyst switches (`S1` and `S2`) and end-user host devices (`PC-A` and `PC-B`) using Cisco Packet Tracer.
 
 ### Core Learning Objectives:
 - Perform initial switch configurations (Hostname, Banner, Passwords).
@@ -16,10 +16,10 @@ This lab focuses on performing initial administrative setup and IP connectivity 
 
 | Device | Interface | IP Address | Subnet Mask |
 | :--- | :--- | :--- | :--- |
-| **S1** | VLAN 1 | `192.168.1.253` | `255.255.255.0` |
-| **S2** | VLAN 1 | `192.168.1.254` | `255.255.255.0` |
-| **PC1** | NIC | `192.168.1.1` | `255.255.255.0` |
-| **PC2** | NIC | `192.168.1.2` | `255.255.255.0` |
+| **S1** | VLAN 1 | `192.168.1.1` | `255.255.255.0` |
+| **S2** | VLAN 1 | `192.168.1.2` | `255.255.255.0` |
+| **PC-A** | NIC | `192.168.1.10` | `255.255.255.0` |
+| **PC-B** | NIC | `192.168.1.11` | `255.255.255.0` |
 
 ---
 
