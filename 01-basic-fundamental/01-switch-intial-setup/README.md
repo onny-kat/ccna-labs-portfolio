@@ -1,4 +1,4 @@
-# Lab 2.7.6: Implement Basic Connectivity
+# Lab: Basic Switch and End Device Configuration
 
 ## Lab Overview & Objectives
 This lab focuses on performing initial administrative setup and IP connectivity configuration on Cisco Catalyst switches (`S1` and `S2`) and end-user host devices (`PC-A` and `PC-B`) using Cisco Packet Tracer.
